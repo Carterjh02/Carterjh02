@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Carterjh02
-- 👀 I’m interested in expanding my skills and learning the ins and outs of coding!
-- 🌱 I’m currently learning Java and JavaFX.
-- 💞️ I’m looking to collaborate on ...
+- Hi, I’m @Carterjh02
+-  I’m interested in expanding my skills and learning the ins and outs of coding!
+-  I’m currently learning Java and working with GUIs. 
 - 📫 How to reach me carterjh02@gmail.com
 
 <!---
